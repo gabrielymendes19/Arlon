@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510249879 source:d:\arlon\lista 1\exercício 3\exe3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
